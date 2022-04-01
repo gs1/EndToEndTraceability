@@ -1,1 +1,4 @@
 # EndToEndTraceability
+
+This public repository is for the development of ideas and open source code for end-to-end traceability of individual objects (such as product instances) within supply chains.  
+The draft white paper at [GS1-WhitePaper-VerifiableCredentials-EPCIS-end-to-end-traceability.pdf](https://gs1.github.io/EndToEndTraceability/GS1-WhitePaper-VerifiableCredentials-EPCIS-end-to-end-traceability.pdf) explains some ideas about how a set of EPCIS event data could be sanitised then used within a set of one or more Verifiable Credentials to form a 'proof of connectedness' and to help in establishing trust relationships for data sharing beyond immediate trading partners within a supply chain.  This paper includes ideas developed in earlier GS1 activities such as the former Event-Based Traceability MSWG, as well as more recent developments within GS1 Innovation activities.
